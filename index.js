@@ -38,8 +38,8 @@ while (i != cn) {
 console.log("You have entered a correct number") */
 
 // Problem No 4
-/* const mean = (a, b, c, d) => {
+const mean = (a, b, c, d) => {
   return (a + b + c + d) / 4
 }
 
-console.log(mean(4, 5, 6, 7)) */
+console.log(mean(4, 5, 6, 7))
